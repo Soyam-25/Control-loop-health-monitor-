@@ -1,0 +1,4 @@
+stream lit
+pandas
+numpy
+matplotlib
